@@ -1,6 +1,6 @@
 ## 웹사이트 방문
 
-👉 **[WJPYLOVER.pythonanywhere.com](https://WJPYLOVER.pythonanywhere.com)**
+👉 **[WJPYLOVER.pythonanywhere.com/foods/menu](https://WJPYLOVER.pythonanywhere.com/foods/menu)**
 
 
 ---> *All the Sources and references are from Codeit.*
