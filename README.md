@@ -2,6 +2,8 @@
 
 ---> [WJPYLOVER.pythonanywhere.com]
 
+---> *All the Sources and references are from Codeit.*
+
 ## 학습 내용
 
 #### 프로젝트 구조
